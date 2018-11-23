@@ -85,7 +85,9 @@ echo
 ;;
 
 99) echo "Autor : Moreno77" | lolcat
+echo " Team : Curut BlackHat
 figlet -f slant "Moreno77" | lolcat
+
 exit
 ;;
 
