@@ -43,8 +43,8 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo $b "1. Hack Akun Instagram${enda}";
-echo $b "2. Hack Akun Facebook${enda}";
+echo $b "1. Hack Akun Instagram${ferdyawanpratama_}";
+echo $b "2. Hack Akun Facebook${ferdyawanpratama};
 echo $b "3. Multi BruteForce Facebook${enda}";
 echo $b "4. Webdav${enda}";
 echo $b "5. Spam Jd.id${enda}";
@@ -52,7 +52,7 @@ echo $b "6. Tools Installer${enda}";
 echo $b "7. Spam Telkomsel${enda}";
 echo $b "8. Install Bahan${enda}";
 echo $b "99. Exit${enda}";
-read -p " Pilih Nomornya =>" pil;
+read -p " Pilih Nomornya =+62-878-0017-2318>" pil;
 
 case $pil in
 1) sh Ig.sh
